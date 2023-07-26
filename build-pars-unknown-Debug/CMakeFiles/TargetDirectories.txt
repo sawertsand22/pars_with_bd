@@ -1,0 +1,4 @@
+/home/sawert/qtprojects/build-pars-unknown-Debug/CMakeFiles/pars.dir
+/home/sawert/qtprojects/build-pars-unknown-Debug/CMakeFiles/edit_cache.dir
+/home/sawert/qtprojects/build-pars-unknown-Debug/CMakeFiles/rebuild_cache.dir
+/home/sawert/qtprojects/build-pars-unknown-Debug/CMakeFiles/pars_autogen.dir
